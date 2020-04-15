@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/pdep-utn-frd/presentacion-NazarenoGrieco/master/foto.jpeg" alt="foto" width=195 height=200>
+<img src="https://raw.githubusercontent.com/pdep-utn-frd/presentacion-NazarenoGrieco/master/foto.jpeg" alt="foto" width=200 height=212>
 
 Legajo:11410
 
